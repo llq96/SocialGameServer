@@ -2,6 +2,29 @@
 <project version="4">
   <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
+      <paths name="Messenger1">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../../../../Program Files/dotnet/sdk/6.0.408/Sdks/Microsoft.NET.Sdk/analyzers/build/config/analysislevel_6_default.editorconfig" web="/" />
+            <mapping local="$PROJECT_DIR$/.gitignore" web="/" />
+            <mapping local="$PROJECT_DIR$/Messenger/MessageInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Messenger/MessagesController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Messenger/MockMessagesModel.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Properties/launchSettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/README.md" web="/" />
+            <mapping local="$PROJECT_DIR$/SocialGameServer.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/SocialGameServer.sln" web="/" />
+            <mapping local="$PROJECT_DIR$/SocialGameServer.sln.DotSettings" web="/" />
+            <mapping local="$PROJECT_DIR$/appsettings.Development.json" web="/" />
+            <mapping local="$PROJECT_DIR$/appsettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/obj/Debug/net6.0/SocialGameServer.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/obj/Debug/net6.0/SocialGameServer.GeneratedMSBuildEditorConfig.editorconfig" web="/" />
+            <mapping local="$PROJECT_DIR$/obj/Debug/net6.0/SocialGameServer.GlobalUsings.g.cs" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="Test1">
         <serverdata>
           <mappings>

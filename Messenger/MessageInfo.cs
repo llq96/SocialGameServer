@@ -13,8 +13,3 @@ public class MessageInfo
         Message = message;
     }
 }
-
-public class Sender
-{
-    public string Name;
-}
